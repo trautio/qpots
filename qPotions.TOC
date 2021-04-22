@@ -1,0 +1,8 @@
+## Interface: 90002
+
+## Title: qPotions
+## Notes: For tracking materials for potions, flasks and oils in Shadowlands
+## Author: Kuuroihu
+## Version 0.0.1
+
+Interface.xml
